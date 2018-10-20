@@ -43,7 +43,8 @@ cd hacktoberfest
 - Create a new branch.
 
 ```markdown
-git checkout -b my-new-branch.
+git checkout -b "my-new-branch".
+// Remember that if the name of the branch contains spaces, you should use double quotes or quotes
 ```
 - Add your contribution.
 - Commit and push.
